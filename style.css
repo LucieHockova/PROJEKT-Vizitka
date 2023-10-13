@@ -29,7 +29,8 @@ body {
     margin-top: 150px;
     left: 650px;
     position: absolute;
-    right: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
